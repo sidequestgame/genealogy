@@ -124,6 +124,7 @@ These were learned the hard way:
 
 ## Map sets
 
-| Area    | Folder     | Zooms | Tiles | Source |
-|---------|------------|-------|-------|--------|
-| Belfast | `Belfast/` | 12–17 | 5,934 | NLS historical maps |
+| Area      | Folder       | Zooms | Tiles | Source |
+|-----------|--------------|-------|-------|--------|
+| Belfast   | `Belfast/`   | 12–17 | 5,934 | NLS historical maps |
+| Ballymena | `Ballymena/` | 12–17 | 8,933 | NLS historical maps |
